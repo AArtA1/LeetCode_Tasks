@@ -1,0 +1,13 @@
+# ninja log v5
+1	251	7042036221513369	CMakeFiles/21_Merge_Two_Sorted_Lists.dir/main.cpp.obj	1b83adf4ee837203
+252	386	7042036222840479	21_Merge_Two_Sorted_Lists.exe	1e79c79cf0f5acdc
+2	241	7042037838186093	CMakeFiles/21_Merge_Two_Sorted_Lists.dir/main.cpp.obj	1b83adf4ee837203
+241	308	7042037838829918	21_Merge_Two_Sorted_Lists.exe	1e79c79cf0f5acdc
+2	451	7042082830309907	CMakeFiles/21_Merge_Two_Sorted_Lists.dir/main.cpp.obj	1b83adf4ee837203
+451	583	7042082831599722	21_Merge_Two_Sorted_Lists.exe	1e79c79cf0f5acdc
+3	241	7042083157414390	CMakeFiles/21_Merge_Two_Sorted_Lists.dir/main.cpp.obj	1b83adf4ee837203
+242	308	7042083158063582	21_Merge_Two_Sorted_Lists.exe	1e79c79cf0f5acdc
+2	239	7042083498499481	CMakeFiles/21_Merge_Two_Sorted_Lists.dir/main.cpp.obj	1b83adf4ee837203
+240	308	7042083499153486	21_Merge_Two_Sorted_Lists.exe	1e79c79cf0f5acdc
+3	241	7042084433036566	CMakeFiles/21_Merge_Two_Sorted_Lists.dir/main.cpp.obj	1b83adf4ee837203
+241	308	7042084433681896	21_Merge_Two_Sorted_Lists.exe	1e79c79cf0f5acdc

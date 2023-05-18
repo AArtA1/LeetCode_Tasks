@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "3_Longest_Substring_Without_Repeating",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "3_Longest_Substring_Without_Repeating::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3_Longest_Substring_Without_Repeating-Debug-1be56ff0540631a38162.json",
+					"name" : "3_Longest_Substring_Without_Repeating",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/aslan/CLionProjects/LeetCode/3_Longest_Substring_Without_Repeating/cmake-build-debug",
+		"source" : "C:/Users/aslan/CLionProjects/LeetCode/3_Longest_Substring_Without_Repeating"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

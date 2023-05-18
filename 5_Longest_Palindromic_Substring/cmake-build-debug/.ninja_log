@@ -1,0 +1,9 @@
+# ninja log v5
+0	299	7035988305530758	CMakeFiles/5_Longest_Palindromic_Substring.dir/main.cpp.obj	ac7a70af8d7e1263
+312	409	7035988306605432	5_Longest_Palindromic_Substring.exe	81e081f3a9b65546
+2	419	7035988565767823	CMakeFiles/5_Longest_Palindromic_Substring.dir/main.cpp.obj	ac7a70af8d7e1263
+419	539	7035988566952077	5_Longest_Palindromic_Substring.exe	81e081f3a9b65546
+2	288	7035988984869524	CMakeFiles/5_Longest_Palindromic_Substring.dir/main.cpp.obj	ac7a70af8d7e1263
+288	361	7035988985569680	5_Longest_Palindromic_Substring.exe	81e081f3a9b65546
+3	350	7036065911531513	CMakeFiles/5_Longest_Palindromic_Substring.dir/main.cpp.obj	ac7a70af8d7e1263
+350	447	7036065912473272	5_Longest_Palindromic_Substring.exe	81e081f3a9b65546

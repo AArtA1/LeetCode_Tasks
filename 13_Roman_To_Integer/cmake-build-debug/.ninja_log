@@ -1,0 +1,21 @@
+# ninja log v5
+0	394	7040727021066416	CMakeFiles/13_Roman_To_Integer.dir/main.cpp.obj	1c4b604ae6b00f5b
+396	529	7040727022396815	13_Roman_To_Integer.exe	93621bdf1a217884
+2	460	7040727566776989	CMakeFiles/13_Roman_To_Integer.dir/main.cpp.obj	1c4b604ae6b00f5b
+460	545	7040727567612219	13_Roman_To_Integer.exe	93621bdf1a217884
+2	447	7040728093072771	CMakeFiles/13_Roman_To_Integer.dir/main.cpp.obj	1c4b604ae6b00f5b
+448	528	7040728093867999	13_Roman_To_Integer.exe	93621bdf1a217884
+3	446	7040728272734705	CMakeFiles/13_Roman_To_Integer.dir/main.cpp.obj	1c4b604ae6b00f5b
+446	528	7040728273524903	13_Roman_To_Integer.exe	93621bdf1a217884
+2	447	7040728363477741	CMakeFiles/13_Roman_To_Integer.dir/main.cpp.obj	1c4b604ae6b00f5b
+447	526	7040728364252951	13_Roman_To_Integer.exe	93621bdf1a217884
+2	413	7040730426377103	CMakeFiles/13_Roman_To_Integer.dir/main.cpp.obj	1c4b604ae6b00f5b
+414	495	7040730427167279	13_Roman_To_Integer.exe	93621bdf1a217884
+2	405	7040731293664300	CMakeFiles/13_Roman_To_Integer.dir/main.cpp.obj	1c4b604ae6b00f5b
+405	485	7040731294454782	13_Roman_To_Integer.exe	93621bdf1a217884
+3	407	7040731434238656	CMakeFiles/13_Roman_To_Integer.dir/main.cpp.obj	1c4b604ae6b00f5b
+408	488	7040731435020672	13_Roman_To_Integer.exe	93621bdf1a217884
+3	412	7040731622204654	CMakeFiles/13_Roman_To_Integer.dir/main.cpp.obj	1c4b604ae6b00f5b
+413	492	7040731622969881	13_Roman_To_Integer.exe	93621bdf1a217884
+3	405	7040731715862826	CMakeFiles/13_Roman_To_Integer.dir/main.cpp.obj	1c4b604ae6b00f5b
+405	484	7040731716642995	13_Roman_To_Integer.exe	93621bdf1a217884

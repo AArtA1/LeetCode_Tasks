@@ -1,0 +1,3 @@
+C:/Users/aslan/ClionProjects/LeetCode/279_Perfect_Squares/cmake-build-debug/CMakeFiles/279_Perfect_Squares.dir
+C:/Users/aslan/ClionProjects/LeetCode/279_Perfect_Squares/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aslan/ClionProjects/LeetCode/279_Perfect_Squares/cmake-build-debug/CMakeFiles/rebuild_cache.dir

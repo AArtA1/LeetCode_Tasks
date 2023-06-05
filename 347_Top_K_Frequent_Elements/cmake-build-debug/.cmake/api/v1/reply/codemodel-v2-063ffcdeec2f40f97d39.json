@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "347_Top_K_Frequent_Elements",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "347_Top_K_Frequent_Elements::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-347_Top_K_Frequent_Elements-Debug-9455a6d2bb42b72fc52b.json",
+					"name" : "347_Top_K_Frequent_Elements",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/aslan/ClionProjects/LeetCode/347_Top_K_Frequent_Elements/cmake-build-debug",
+		"source" : "C:/Users/aslan/ClionProjects/LeetCode/347_Top_K_Frequent_Elements"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

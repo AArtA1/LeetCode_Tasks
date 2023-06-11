@@ -1,0 +1,3 @@
+C:/Users/aslan/CLionProjects/LeetCode/2241_Design_an_ATM_Machine/cmake-build-debug/CMakeFiles/2241_Design_an_ATM_Machine_.dir
+C:/Users/aslan/CLionProjects/LeetCode/2241_Design_an_ATM_Machine/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aslan/CLionProjects/LeetCode/2241_Design_an_ATM_Machine/cmake-build-debug/CMakeFiles/rebuild_cache.dir

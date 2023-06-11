@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.25)
+project(1493_Longest_Subarray_of_1_s_After_Deleting_One_Element_)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(1493_Longest_Subarray_of_1_s_After_Deleting_One_Element_ main.cpp)

@@ -1,0 +1,3 @@
+C:/Users/aslan/CLionProjects/Contests/1318_Minimum_Flips_to_Make_a_OR_b_Equal_to_c/cmake-build-debug/CMakeFiles/1318_Minimum_Flips_to_Make_a_OR_b_Equal_to_c_.dir
+C:/Users/aslan/CLionProjects/Contests/1318_Minimum_Flips_to_Make_a_OR_b_Equal_to_c/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aslan/CLionProjects/Contests/1318_Minimum_Flips_to_Make_a_OR_b_Equal_to_c/cmake-build-debug/CMakeFiles/rebuild_cache.dir

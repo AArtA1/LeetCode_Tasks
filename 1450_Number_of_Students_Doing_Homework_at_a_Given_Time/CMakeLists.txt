@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.25)
+project(1450_Number_of_Students_Doing_Homework_at_a_Given_Time)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(1450_Number_of_Students_Doing_Homework_at_a_Given_Time main.cpp)

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "986_Interval_List_Intersections_Medium_5_1K_100_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "986_Interval_List_Intersections_Medium_5_1K_100_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-986_Interval_List_Intersections_Medium_5_1K_100_-Debug-82c72b77e01c1b5d8166.json",
+					"name" : "986_Interval_List_Intersections_Medium_5_1K_100_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/aslan/CLionProjects/LeetCode/986_Interval_List_Intersections_Medium_5.1K_100/cmake-build-debug",
+		"source" : "C:/Users/aslan/CLionProjects/LeetCode/986_Interval_List_Intersections_Medium_5.1K_100"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

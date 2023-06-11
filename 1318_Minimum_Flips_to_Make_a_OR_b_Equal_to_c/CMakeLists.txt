@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.25)
+project(1318_Minimum_Flips_to_Make_a_OR_b_Equal_to_c_)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(1318_Minimum_Flips_to_Make_a_OR_b_Equal_to_c_ main.cpp)

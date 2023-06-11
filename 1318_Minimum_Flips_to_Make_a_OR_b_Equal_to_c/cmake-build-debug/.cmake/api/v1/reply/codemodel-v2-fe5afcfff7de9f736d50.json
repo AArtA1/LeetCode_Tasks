@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "1318_Minimum_Flips_to_Make_a_OR_b_Equal_to_c_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1318_Minimum_Flips_to_Make_a_OR_b_Equal_to_c_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1318_Minimum_Flips_to_Make_a_OR_b_Equal_to_c_-Debug-f3194f14f3443159c90d.json",
+					"name" : "1318_Minimum_Flips_to_Make_a_OR_b_Equal_to_c_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/aslan/CLionProjects/Contests/1318_Minimum_Flips_to_Make_a_OR_b_Equal_to_c/cmake-build-debug",
+		"source" : "C:/Users/aslan/CLionProjects/Contests/1318_Minimum_Flips_to_Make_a_OR_b_Equal_to_c"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

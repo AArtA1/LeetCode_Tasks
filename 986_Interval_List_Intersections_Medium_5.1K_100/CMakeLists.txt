@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.25)
+project(986_Interval_List_Intersections_Medium_5_1K_100_)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(986_Interval_List_Intersections_Medium_5_1K_100_ main.cpp)

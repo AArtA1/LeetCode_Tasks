@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "449_Serialize_and_Deserialize_BST_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "449_Serialize_and_Deserialize_BST_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-449_Serialize_and_Deserialize_BST_-Debug-2a487d194f347b0ac73f.json",
+					"name" : "449_Serialize_and_Deserialize_BST_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/aslan/CLionProjects/LeetCode/449_Serialize_and_Deserialize_BST/cmake-build-debug",
+		"source" : "C:/Users/aslan/CLionProjects/LeetCode/449_Serialize_and_Deserialize_BST"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

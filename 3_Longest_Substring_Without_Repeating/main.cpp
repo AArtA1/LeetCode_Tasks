@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include <vector>
+#include <algorithm>
 
 using std::vector,std::cin,std::string,std::max;
 
@@ -57,7 +58,6 @@ int longestUniqueSubsttr(string str)
 
     // compare current left,right with previous result
     maxLength = max(maxLength, (right - left));
-
     return maxLength;
 }
 

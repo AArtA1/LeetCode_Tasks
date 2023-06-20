@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "849_Maximize_Distance_to_Closest_Person_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "849_Maximize_Distance_to_Closest_Person_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-849_Maximize_Distance_to_Closest_Person_-Debug-cc1ac9b318c8a14e4dd3.json",
+					"name" : "849_Maximize_Distance_to_Closest_Person_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/aslan/CLionProjects/LeetCode/849_Maximize_Distance_to_Closest_Person/cmake-build-debug",
+		"source" : "C:/Users/aslan/CLionProjects/LeetCode/849_Maximize_Distance_to_Closest_Person"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

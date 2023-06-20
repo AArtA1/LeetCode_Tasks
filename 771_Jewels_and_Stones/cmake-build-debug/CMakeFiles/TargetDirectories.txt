@@ -1,0 +1,3 @@
+C:/Users/aslan/CLionProjects/LeetCode/771_Jewels_and_Stones/cmake-build-debug/CMakeFiles/771_Jewels_and_Stones.dir
+C:/Users/aslan/CLionProjects/LeetCode/771_Jewels_and_Stones/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aslan/CLionProjects/LeetCode/771_Jewels_and_Stones/cmake-build-debug/CMakeFiles/rebuild_cache.dir

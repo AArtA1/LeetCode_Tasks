@@ -1,0 +1,3 @@
+C:/Users/aslan/CLionProjects/LeetCode/763_Partition_Labels/cmake-build-debug/CMakeFiles/763_Partition_Labels_.dir
+C:/Users/aslan/CLionProjects/LeetCode/763_Partition_Labels/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aslan/CLionProjects/LeetCode/763_Partition_Labels/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,11 @@
+# ninja log v5
+0	326	7082605680396962	CMakeFiles/974_Subarray_Sums_Divisible_by_K_Medium.dir/main.cpp.obj	cf7a3325ca311101
+327	404	7082605681096972	974_Subarray_Sums_Divisible_by_K_Medium.exe	5c32bbb409116ef7
+2	438	7082606059093542	CMakeFiles/974_Subarray_Sums_Divisible_by_K_Medium.dir/main.cpp.obj	cf7a3325ca311101
+438	513	7082606059823541	974_Subarray_Sums_Divisible_by_K_Medium.exe	5c32bbb409116ef7
+2	420	7082615305363718	CMakeFiles/974_Subarray_Sums_Divisible_by_K_Medium.dir/main.cpp.obj	cf7a3325ca311101
+421	499	7082615306123725	974_Subarray_Sums_Divisible_by_K_Medium.exe	5c32bbb409116ef7
+2	419	7082615512635684	CMakeFiles/974_Subarray_Sums_Divisible_by_K_Medium.dir/main.cpp.obj	cf7a3325ca311101
+429	503	7082615513460283	974_Subarray_Sums_Divisible_by_K_Medium.exe	5c32bbb409116ef7
+2	410	7082638807418452	CMakeFiles/974_Subarray_Sums_Divisible_by_K_Medium.dir/main.cpp.obj	cf7a3325ca311101
+411	502	7082638808313249	974_Subarray_Sums_Divisible_by_K_Medium.exe	5c32bbb409116ef7

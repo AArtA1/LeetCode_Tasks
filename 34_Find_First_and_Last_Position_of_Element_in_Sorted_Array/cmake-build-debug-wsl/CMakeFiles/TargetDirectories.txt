@@ -1,0 +1,3 @@
+/mnt/c/Users/aslan/CLionProjects/LeetCode/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array/cmake-build-debug-wsl/CMakeFiles/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.dir
+/mnt/c/Users/aslan/CLionProjects/LeetCode/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array/cmake-build-debug-wsl/CMakeFiles/edit_cache.dir
+/mnt/c/Users/aslan/CLionProjects/LeetCode/34_Find_First_and_Last_Position_of_Element_in_Sorted_Array/cmake-build-debug-wsl/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "26_Remove_Duplicates_From_Array",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "26_Remove_Duplicates_From_Array::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-26_Remove_Duplicates_From_Array-Debug-81867b97dbe2cdb43b5c.json",
+					"name" : "26_Remove_Duplicates_From_Array",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/aslan/CLionProjects/LeetCode/26_Remove_Duplicates_From_Array/cmake-build-debug",
+		"source" : "C:/Users/aslan/CLionProjects/LeetCode/26_Remove_Duplicates_From_Array"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique-Debug-e2b1e9d490e9a4e58454.json",
+					"name" : "1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/aslan/CLionProjects/LeetCode/1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique/cmake-build-debug",
+		"source" : "C:/Users/aslan/CLionProjects/LeetCode/1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

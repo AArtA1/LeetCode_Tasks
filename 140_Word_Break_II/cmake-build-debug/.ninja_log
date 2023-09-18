@@ -1,0 +1,11 @@
+# ninja log v5
+0	510	7165666046376784	CMakeFiles/140_Word_Break_II_.dir/main.cpp.obj	8ed3853297422eed
+512	619	7165666047450441	140_Word_Break_II_.exe	70ee0c74d0f82b7a
+3	453	7165675299641969	CMakeFiles/140_Word_Break_II_.dir/main.cpp.obj	8ed3853297422eed
+453	536	7165675300441947	140_Word_Break_II_.exe	70ee0c74d0f82b7a
+2	452	7165677609988627	CMakeFiles/140_Word_Break_II_.dir/main.cpp.obj	8ed3853297422eed
+453	535	7165677610788630	140_Word_Break_II_.exe	70ee0c74d0f82b7a
+2	455	7165678229852897	CMakeFiles/140_Word_Break_II_.dir/main.cpp.obj	8ed3853297422eed
+456	538	7165678230652880	140_Word_Break_II_.exe	70ee0c74d0f82b7a
+2	477	7165679244473929	CMakeFiles/140_Word_Break_II_.dir/main.cpp.obj	8ed3853297422eed
+477	559	7165679245263929	140_Word_Break_II_.exe	70ee0c74d0f82b7a

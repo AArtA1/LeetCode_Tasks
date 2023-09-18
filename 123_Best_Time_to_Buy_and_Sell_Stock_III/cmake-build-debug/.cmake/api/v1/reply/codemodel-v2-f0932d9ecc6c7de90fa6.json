@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "123_Best_Time_to_Buy_and_Sell_Stock_III_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "123_Best_Time_to_Buy_and_Sell_Stock_III_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-123_Best_Time_to_Buy_and_Sell_Stock_III_-Debug-96ff70e5f127645b3fb2.json",
+					"name" : "123_Best_Time_to_Buy_and_Sell_Stock_III_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/aslan/CLionProjects/LeetCode/123_Best_Time_to_Buy_and_Sell_Stock_III/cmake-build-debug",
+		"source" : "C:/Users/aslan/CLionProjects/LeetCode/123_Best_Time_to_Buy_and_Sell_Stock_III"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
